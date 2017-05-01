@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Open Telecom Foudation
+title: Open Telecom Foundation
 email: fredguth@fredguth.com
 description: > # this means to ignore newlines until "baseurl:"
   Fostering an open source stack for carriers.
