@@ -6,5 +6,5 @@ layout: default
 ---
 
 {% include manifesto.md %}
-{% include whoweare.md %}
 {% include whatwedo.md %}
+{% include whoweare.md %}
