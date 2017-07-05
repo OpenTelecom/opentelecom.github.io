@@ -1,6 +1,6 @@
 # Mission
 
-The Open Telecom Foundation.s (OTF) mission is:
+The Open Telecom Foundation’s (OTF) mission is:
 * To advance the adoption of open source telecommunications technologies based on open standards and open protocols
 * To promote the design and development of reliable and resilient telecommunications platforms using open source and open standards components
 
