@@ -4,6 +4,9 @@
 <head>
   <title>{{ site.title }}</title>
   <link rel="stylesheet" type="text/css" href="/assets/styles/main.css">
+  <link rel="stylesheet" href="footer.css">
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  <link rel="stylsheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -20,10 +23,10 @@
 
   <nav class="navigation-menu">
     <a role="scroll-to-top" class="home"></a>
-    <a href="default.html">What we do</a>
+    <a href="index.html">What we do</a>
     <a href="bylaws.html">Bylaws</a>
     <a href="#who-we-are">How to get involved</a>
-    <a href="#who-we-are">Directors</a>
+    <a href="directors.html">Directors</a>
     <a href="#who-we-are">Current Projects</a>
     <a href="https://github.com/OpenTelecom/" target="_blank">GitHub</a>
   </nav>
@@ -32,8 +35,42 @@
     {{ content }}
   </div>
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/javascript/main.js"></script>
+  <div id="footer">
+    <div id="utility-links">
+
+      <div class="help">
+        <ul>
+          <h3 class="#">Get Involved!</h3>
+          <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="#">Email Us</a></li>
+          <li><i class="fa fa-slack" aria-hidden="true"></i><a href="#">Join Our Slack</a></li>
+        </ul>
+      </div>
+
+
+      <div class="rectangle"></div>
+
+      <div class="about">
+        <ul>
+          <img src="/assets/images/otf-gray-logo.svg" width="100px" height="100px">
+
+        </ul>
+      </div>
+
+      <div class="rectangle"></div>
+
+      <div class="card">
+        <ul>
+          <h3 class="left">Follow us!</h3>
+          <li><a class="github-button" href="https://github.com/ntkme/github-buttons/subscription" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a></li>
+          <li><a class="github-button" href="https://github.com/OpenTelecom" aria-label="Follow @OpenTelecom on GitHub">Follow @OpenTelecom</a></li>
+          <li><a class="github-button" href="https://github.com/ntkme/github-buttons/fork" aria-label="Fork ntkme/github-buttons on GitHub">Fork</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script type="text/javascript" src="/assets/javascript/main.js"></script>
 
 </body>
 
