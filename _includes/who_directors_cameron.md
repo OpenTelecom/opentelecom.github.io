@@ -1,4 +1,4 @@
-<img src="/assets/images/cameron.png height="128" width="128"><br>
+<img src="/assets/images/cameron.png" height="128" width="128"><br>
 **Cameron Beattie**
 (Auckland, NZ)
 
