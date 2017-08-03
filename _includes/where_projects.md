@@ -1,4 +1,4 @@
-##Sponsoring Projects##
+## Sponsoring Projects ##
 
 OTF members have provided sponsorship of key telecom projects by:
 

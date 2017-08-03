@@ -1,6 +1,6 @@
-##Contributing##
+## Contributing ##
 
-Our members have been activite contributors to key open source telecom projects. Here is a summary view of our members' contributions. 
+Our members have been active contributors to key open source telecom projects. Here is a summary view of our members' contributions.
 
 {% include what_contributing_cloudpbx.md %}
 
@@ -15,4 +15,3 @@ Our members have been activite contributors to key open source telecom projects.
 {% include what_contributing_voxter.md %}
 
 {% include what_contributing_xentric.md %}
-
