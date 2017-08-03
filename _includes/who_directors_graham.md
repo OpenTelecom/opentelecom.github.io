@@ -1,4 +1,4 @@
-<img src="/assets/images/graham.png">
+<img src="/assets/images/graham.png" height="128" width="128"><br>
 **Graham Nelson-Zutter**
 (Vancouver, Canada)
 
