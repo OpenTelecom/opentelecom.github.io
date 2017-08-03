@@ -1,3 +1,5 @@
+
+<img src="/assets/images/cameron.png">
 **Cameron Beattie**
 (Auckland, NZ)
 

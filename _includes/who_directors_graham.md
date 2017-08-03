@@ -1,3 +1,4 @@
+<img src="/assets/images/graham.png">
 **Graham Nelson-Zutter**
 (Vancouver, Canada)
 
@@ -8,4 +9,3 @@ As chance would have it, Graham had landed a front row seat to the technological
 By the age of 21, Graham had risen to a management position at MGI, an education software company founded by former Apple QuickTime alumni. MGI’s clients included NOAA, the Alaska State Dept. of Transportation, Washington State Dept. of Transportation, BC Ferries Corp and TeeKay Shipping. At MGI, Graham led a platform architecture rebuild using open-source tools and open-standards protocols, migrated MGI’s portfolio on offline courseware into an online streaming education service, and implemented quality assurance controls.
 
 While living in Tokyo in the early 2000’s, Graham was exposed to Japan’s advanced mobile telecommunications services, and was left asking: “Why have North American telecommunications fallen so far behind?” Returning to Canada in 2004, Graham witnessed the rapid advance of VoIP and the Asterisk project. Realizing the potential to participate in a key disruptive technology, in 2006, Graham co-founded the business VoIP service provider Telephonic Communications Inc. In 2012, seeing how much the FreeSWITCH and Kamailio open-source projects had matured, Graham followed up by co-founding his second VoIP venture - wholesale VoIP service / IaaS provider CloudPBX Inc.
-
