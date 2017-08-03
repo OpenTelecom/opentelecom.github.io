@@ -22,6 +22,13 @@
   </header>
 
   <nav class="navigation-menu">
+
+    {% for page in site.pages %}
+      {% if page.title %}
+      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+    {% endfor %}
+
     <a role="scroll-to-top" class="home"></a>
     <a href="index.html">What we do</a>
     <a href="bylaws.html">Bylaws</a>
