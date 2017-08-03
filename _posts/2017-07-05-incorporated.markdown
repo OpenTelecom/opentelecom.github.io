@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Open Telecom Foundation is now a legal entity!."
+title:  "Open Telecom Foundation is now a legal entity!"
 date:   2017-07-05 12:00:00
 categories: foundation incorporation non-profit
 ---

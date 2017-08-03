@@ -16,13 +16,12 @@
 title: Open Telecom Foundation
 email: fredguth@fredguth.com
 description: > # this means to ignore newlines until "baseurl:"
-  Our vision: A vibrant community using and enhancing the world's best open source real-time eventing and communications platform
+  OUR VISION: BUILD & SUPPORT A VIBRANT COMMUNITY USING AND ENHANCING THE WORLD'S BEST OPEN SOURCE AND OPEN STANDARD TELECOMMUNICATIONS TECHNOLOGIES.
 description2: > # this means to ignore newlines until "baseurl:"
-  Our mission: We build and use open source real-time communications software and encourage community cooperation and participation
+  Mission: We help build and deploy open source real-time telecommunications software by encouraging community cooperation and participation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: fredguth
-github_username:  fredguth
+url: "http://opentelecom.foundation" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  opentelecom
 
 sass:
   sass_dir: assets/styles/_sass
