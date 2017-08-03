@@ -1,6 +1,6 @@
-##Directors##
+## Directors ##
 
-The following directors volunteer their time manage to attend regular board meetings and help with the day-to-day operations of the Open Telecom Foundation. 
+The following directors volunteer their time manage to attend regular board meetings and help with the day-to-day operations of the Open Telecom Foundation.
 
 * Alvaro Vargas
 * [Cameron Beattie](#who_directors_cameron)
@@ -12,7 +12,7 @@ The following directors volunteer their time manage to attend regular board meet
 
 
 
-####Directors Bios####
+#### Directors Bios ####
 
 <a name="who_directors_cameron"></a>
 {% include who_directors_cameron.md %}
@@ -24,4 +24,3 @@ The following directors volunteer their time manage to attend regular board meet
 
 <a name="who_directors_remco"></a>
 {% include who_directors_remco.md %}
-
