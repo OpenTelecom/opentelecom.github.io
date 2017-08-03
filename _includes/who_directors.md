@@ -6,7 +6,7 @@ The following directors volunteer their time manage to attend regular board meet
 * [Cameron Beattie](#who_directors_cameron)
 * Dayton Turner
 * [Graham Nelson-Zutter](#who_directors_graham)
-* Jose Paz
+* [Jose Paz](#who_directors_jose)
 * Noah Mehl
 * [Remco van Vugt](#who_directors_remco)
 
@@ -21,6 +21,8 @@ The following directors volunteer their time manage to attend regular board meet
 <a name="who_directors_graham"></a>
 {% include who_directors_graham.md %}
 
+<a name="who_directors_jose"></a>
+{% include who_directors_jose.md %}
 
 <a name="who_directors_remco"></a>
 {% include who_directors_remco.md %}
