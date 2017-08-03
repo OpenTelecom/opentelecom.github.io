@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
       <h2>Projects that OTF members use, sponsor and encourage contributions to:</h2>
 
