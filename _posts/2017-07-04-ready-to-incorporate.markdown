@@ -1,12 +1,12 @@
 ---
-layout: post
-title:  "Request to form the Open Telecom Foundation"
+layout: default
+title:  "By-Laws for the Open Telecom Foundation complete."
 date:   2017-07-04 12:00:00
-categories: foundation incporporation non-profit
+categories: foundation incorporation non-profit
 ---
 
 
-W have collected all of the required signatures from our 7 founding volunteer Directors:
+After months of discussions formulating our By-Laws, we have collected all of the required signatures from our 7 founding volunteer Directors:
 
 * Alvaro Vargas
 * Cameron Beattie
@@ -17,5 +17,4 @@ W have collected all of the required signatures from our 7 founding volunteer Di
 * Remco van Vugt
 
 
-With the concent of our founding Board of Directors, the Open Telecom Foundation is ready to file incorporation documents as a federal non-for-profit in Canada. 
-
+With the content of our founding Board of Directors, the Open Telecom Foundation is ready to file incorporation documents as a federal non-for-profit in Canada.

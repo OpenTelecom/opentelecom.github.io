@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: When To Get Involved?
 permalink: /when/
 ---

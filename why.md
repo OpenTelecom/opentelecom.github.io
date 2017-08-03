@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why We Exist
 permalink: /why/
 ---
@@ -9,4 +9,3 @@ permalink: /why/
 {% include why_neutrality.md %}
 
 {% include what_benefits.md %}
-
