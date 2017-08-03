@@ -22,18 +22,13 @@
   </header>
 
   <nav class="navigation-menu">
-
+    <a class="page-link" href="{{ site.baseurl }}//news.html">News</a>
     {% for page in site.pages %}
       {% if page.title %}
       <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
       {% endif %}
     {% endfor %}
-
-    <a role="scroll-to-top" class="home"></a>
-    <a href="index.html">What we do</a>
     <a href="bylaws.html">Bylaws</a>
-    <a href="#who-we-are">How to get involved</a>
-    <a href="directors.html">Directors</a>
     <a href="projects.html">Current Projects</a>
     <a href="https://github.com/OpenTelecom/" target="_blank">OTF GitHub</a>
   </nav>
