@@ -50,12 +50,12 @@ h3.center {
 
 /* List Styling */
 
-  ul {
+  ul.footer {
     margin: 0;
     list-style-type: none;
 }
 
-    li {
+    li.footer {
     margin: 0;
     color: #666666;
     font-size: 13px;
@@ -305,7 +305,7 @@ a:active {
 
 /* H3 Styling */
 
-h3.left {
+#footer h3.left {
 
   color: #000;
   font-size: 16px;
@@ -316,7 +316,7 @@ h3.left {
 
 }
 
-h3.center {
+#footer h3.center {
 
   color: #000;
   font-size: 16px;
@@ -330,19 +330,19 @@ h3.center {
 
 /* List Styling */
 
-  ul {
+#footer ul {
     margin: 0;
     list-style-type: none;
 }
 
-    li {
+#footer li {
     margin: 0;
     color: #666666;
     font-size: 13px;
     font-weight: 300;
     line-height: 22px;
     list-style-type: none;
-  text-align: left;
+    text-align: left;
 }
 
 
