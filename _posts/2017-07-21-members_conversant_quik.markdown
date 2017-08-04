@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Conversant & Quik are now offically a Silver Members of the OTF!"
+title:  "Conversant & Quik are now offically Silver Members of the OTF!"
 date:   2017-07-21 12:00:00
 categories: foundation member non-profit
 ---
