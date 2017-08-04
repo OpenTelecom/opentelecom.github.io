@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Raffel, Voxter & Reper.io are now offically a Silver Members of the OTF!"
+title:  "Raffel, Voxter & Reper.io are now offically Silver Members of the OTF!"
 date:   2017-07-24 12:00:00
 categories: foundation member non-profit
 ---
