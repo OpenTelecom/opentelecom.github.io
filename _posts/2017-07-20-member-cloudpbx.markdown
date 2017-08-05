@@ -10,3 +10,5 @@ Now that the Open Telecom Foundation is now a legal entity, our members can offi
 Today, **CloudPBX** from Canada has joined as a _Silver Member_ and is represented by volunteer _Silver Director_ Graham Nelson-Zutter on the founding OTF Board. 
 
 As a _Silver Member_, CloudPBX is happy to contribute its annual OTF membership fee, paid in monthly instalments. 
+
+{% include what_contributing_cloudpbx.md %}
