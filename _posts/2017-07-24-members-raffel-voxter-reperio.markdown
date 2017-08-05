@@ -20,4 +20,4 @@ As _Silver Members_, Raffel, Voxter and Reper.io are happy to contribute their a
 {% include what_contributing_voxter.md %}
 
 
-{% include what_contributing_reperi.omd %}
+{% include what_contributing_reperio.md %}
