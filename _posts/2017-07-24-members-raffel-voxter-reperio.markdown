@@ -12,3 +12,9 @@ Today, **Raffel**, from the Netherlands, **Voxter**, from Canada, and **Reper.io
 Raffel is represented by volunteer _Silver Director_ Remco van Vugt, Voxter is represented by volunteer _Silver Director_ Dayton Turner, and Reper.io is represented by volunteer _Silver Director_ Noah Mehl. Remco, Dayton and Noah are members of the founding OTF Board. 
 
 As _Silver Members_, Raffel, Voxter and Reper.io are happy to contribute their annual OTF membership fees, paid in monthly instalments. 
+
+
+{% include what_contributing_raffel.md %}
+
+
+{% include what_contributing_voxter.md %}
