@@ -10,3 +10,5 @@ Now that the Open Telecom Foundation is now a legal entity, our members can offi
 Today, **Xentric**, from Uruguay, has joined as a _Silver Member_ and is represented by volunteer _Silver Director_ Alvaro Vargas on the founding OTF Board. 
 
 As a _Silver Member_, Xentric is happy to contribute its annual OTF membership fee, paid in monthly instalments. 
+
+{% include what_contributing_xentric.md %}
