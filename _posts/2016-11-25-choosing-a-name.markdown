@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Choosing a name for the Foundation"
-date:   2016-11-21 12:00:00
+date:   2016-11-25 12:00:00
 categories: name foundation 
 ---
 
