@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "The 1st volunteer directors of the Open Telecom Foundation"
+title:  "First volunteer Board of Directors of the Open Telecom Foundation"
 date:   2017-02-24 12:00:00
 categories: directors meeting legal 
 ---
