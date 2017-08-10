@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  "OTF members expand concept for Kazoo EDR (Event Data Records)"
+title:  "OTF members expand concept of Kazoo EDR (Event Data Records)"
 date:   2017-08-10 12:00:00
-categories: pull-request kazoo contributions 
+categories: pull-requests kazoo contributions 
 ---
 
 Founding member and volunber director Noal Mehl has submitted an _Open Telecom Foundation endorsed_ contribution to the Kazoo open source project that would greatly enhance Kazoo's ability to provide output of new realtime events. **EDR (Event Data Records)** would allow for a much more flexible and detailed method for Kazoo to provide output of new types of realtime events. 
