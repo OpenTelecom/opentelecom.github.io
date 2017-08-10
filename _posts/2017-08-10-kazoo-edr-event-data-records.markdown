@@ -26,10 +26,10 @@ Director, Open Telecom Foundation
 
 Please be part of the conversation! We'd love to hear your ideal on how to improve Kazoo EDR:
 
-**2600Hz Kazoo Project Jira (Issue Tracker)** <br>
+**2600Hz Kazoo Project Jira Issue Tracker (Registration Required)** <br>
 [https://2600hz.atlassian.net/browse/KAZOO-5635](https://2600hz.atlassian.net/browse/KAZOO-5635)
 
-**2600Hz Kazoo Project Community Forum (Open Discussions Group)** <br>
+**2600Hz Kazoo Project Community Forum (Registration Required)** <br>
 [https://forums.2600hz.com/forums/topic/9084-edr-architectural-discussion/](https://forums.2600hz.com/forums/topic/9084-edr-architectural-discussion/)
 
 
