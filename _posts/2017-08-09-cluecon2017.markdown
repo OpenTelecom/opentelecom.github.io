@@ -11,13 +11,13 @@ Some notes on OTF member {% include what_contributing_voxter.md %}
 
 Some notes on OTF member {% include what_contributing_reperio.md %}
 
-There a number of very compelling presentations this year. One presentation of particular interest today was by Telnyx, explaining their highly scalable, global carrier deployment using *BGP Anycast & Unicast based SIP routers all running in Docker containers*. One remarkable inovation to Telnyx's approach is using iBGP unicast within their private Docker network to route public IPs used from within containers to the public internet and their eBGP routers. 
+There a number of very compelling presentations this at ClueCon year. One presentation of particular interest was presented by Telnyx, explaining their highly scalable, global carrier deployment using **BGP Anycast & Unicast based SIP routers all running in Docker containers**. One remarkable inovation to Telnyx's approach is using iBGP unicast within their private Docker network to route public IPs used from within containers to the public internet and their eBGP routers. 
 
 Telnyx uses a number of open source and open protocol technologies that OTF members also use:
 
-* Docker (as a linux process container for micro services)
-* Quagga (as a iBGP and eBGP router)
-* Kamailio (as a SIP proxy and registar)
-* FreeSWITCH (as a RTP media processing node with high available failover with call recreation)
-* PostgreSQL (as a SQL databse to assist in FreeSWITCH high available failover with call recreation)
+* **Docker** (as a linux process container for micro services)
+* **Quagga** (as a iBGP and eBGP router)
+* **Kamailio** (as a SIP proxy and registar)
+* **FreeSWITCH** (as a RTP media processing node with high available failover with call recreation)
+* **PostgreSQL** (as a SQL databse to assist in FreeSWITCH high available failover with call recreation)
 
