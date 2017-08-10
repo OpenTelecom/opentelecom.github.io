@@ -7,11 +7,9 @@ categories: conferences cluecon
 
 Founding Open Telecom Foundation members Voxter and Reper.io are on-site in Chicago attending [ClueCon](https://www.cluecon.com) 2017. 
 
-Some notes on OTF member Voxter:
-{% include what_contributing_voxter.md %}
+Some notes on OTF member {% include what_contributing_voxter.md %}
 
-Some notes on OTF member Reper.io:
-{% include what_contributing_reperio.md %}
+Some notes on OTF member {% include what_contributing_reperio.md %}
 
 There a number of very compelling presentations this year. One presentation of particular interest today was by Telnyx, explaining their highly scalable, global carrier deployment using *BGP Anycast & Unicast based SIP routers all running in Docker containers*. One remarkable inovation to Telnyx's approach is using iBGP unicast within their private Docker network to route public IPs used from within containers to the public internet and their eBGP routers. 
 
