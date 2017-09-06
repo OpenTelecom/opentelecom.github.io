@@ -1,6 +1,14 @@
 ## We Contribute! ##
 
-** Individual Member Contributions ** 
+### Open Telecom Foundation Contributions ###
+
+{% include what_contributing_otf.md %}
+
+### Contributing to Upstream Projects ###
+
+{% include what_contributing_upstream.md %}
+
+### Individual Member Contributions ### 
 
 Our members have been active contributors to key open source telecom projects. Here is a summary view of our members' contributions.
 
@@ -19,10 +27,4 @@ Our members have been active contributors to key open source telecom projects. H
 {% include what_contributing_xentric.md %}
 
 
-** Open Telecom Foundation Contributions **
 
-{% include what_contributing_otf.md %}
-
-** Contributing to Upstream Projects **
-
-{% include what_contributing_upstream.md %}
