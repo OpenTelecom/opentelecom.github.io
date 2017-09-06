@@ -1,0 +1,1 @@
+In addition to the independent member contributions to open source projects, the OTF has started planning its own direct contributions projects of interest. If you have a project that you feel would be a good fit for the OTF, please become a member and let us know!
