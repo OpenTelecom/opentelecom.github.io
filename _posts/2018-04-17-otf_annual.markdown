@@ -13,13 +13,13 @@ Draft Presentation Schedule:
 | --------------- | ----- | --------- |
 | 9:00 | Welcome | Cameron Beattie |
 | 9:10 | The OTF: A year in review | Graham Nelson-Zutter |
-| 9:30 | Customising Kazoo | Mikhail Rodvionov |
+| 9:30 | Made in Britain. Open for everybody | Mikhail Rodvionov |
 | 10:00 | BGP/BFD for highly available voice peering | Remco van Vugt |
 | 10:45 | Running Kazoo on CouchDB | Daniel Finke |
 | 11:15 | Automated builds, monitoring and alerting | Noah Mehl |
 | 11:45 | Running a Kazoo load test using EC2 | Cameron Beattie |
 | 13:30 | Regurgitating Kazoo events using EDR and Spewer | Max Lay |
-| 14:00 | Kazoo operational gaps and how to fill them | TBA |
+| 14:00 | Kazoo gaps and how to fill them | Group discussion |
 | 14:45 | Building a responsive, cross-platform messaging and call control app | Tate Robertson |
 | 15:15 | Build Kazoo add-ons using Javascript | Noah Mehl |
 | 15:45 | SIP log analysis and integration with Kazoo using Homer | Cameron Beattie/Noah Mehl |
