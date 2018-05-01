@@ -9,14 +9,14 @@ The OTF will be hosting the first OTF Annual conference on May 3rd 2018 from 9:0
 
 Draft Presentation Schedule:
 
-| Time Slot (PST) | Title | Presenter |
+| Time Slot (PDT) | Title | Presenter |
 | --------------- | ----- | --------- |
 | 9:00 | Welcome | Cameron Beattie (Voyager) |
 | 9:10 | The OTF: A year in review | Graham Nelson-Zutter (Telephonic) |
 | 9:30 | Made in Britain. Open for everybody | Mikhail Rodvionov (Telux) |
 | 10:00 | BGP/BFD for highly available voice peering | Remco van Vugt (Raffel) |
-| 10:45 | Running Kazoo on CouchDB | Daniel Finke (Voxter) |
-| 11:15 | Automated builds | Group discussion |
+| 10:45 | Experiences with CouchDB for Kazoo | Daniel Finke (Voxter) |
+| 11:15 | To Kazoo or not to Kazoo - the question is the Billing | Kirill Sysoev (OnNet) |
 | 11:45 | Running a Kazoo load test using EC2 | Cameron Beattie (Voyager) |
 | 13:30 | Regurgitating Kazoo events using EDR and Spewer | Max Lay (Voyager)|
 | 14:00 | Kazoo gaps and how to fill them | Group discussion |
