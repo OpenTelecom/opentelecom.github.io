@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "The OTF is happy to annount new Development Grants!"
+title:  "The OTF is happy to annount the new OTF Development Grant!"
 date:   2018-04-24 12:00:00
 categories: foundation grant non-profit
 ---
@@ -15,7 +15,7 @@ The OTF is happy to accept applications for the **OTF Development Grant** from O
 - For returning applications, the grant is $500 USD. 
 - An applicant may apply a maximum of 4 times per year (up to $2500 USD per year)
 
-For details please on how to apply and review our [**OTF Development Grant** details (Google Doc)] (https://docs.google.com/document/d/132TBP37-ETF5Hh5ck1rvRn1jkwZMVGpQZB9fnIjX2AQ/edit)
+For details please on how to apply and review our [**OTF Development Grant** details (Google Doc)](https://docs.google.com/document/d/132TBP37-ETF5Hh5ck1rvRn1jkwZMVGpQZB9fnIjX2AQ/edit)
 
 Each OTF member contributes a membership fee, paid in monthly instalments. These funds are what make the OTF Development Grant possible. 
 
