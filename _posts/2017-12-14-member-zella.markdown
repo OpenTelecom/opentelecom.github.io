@@ -5,7 +5,7 @@ date:   2017-12-14 12:00:00
 categories: foundation member non-profit
 ---
 
-Today, **Zella Technologies** from Canada has joined as a _Silver Member_ and is represented by their CEO Anthony Manzella. 
+Today, **Zella Technologies** from teh USA has joined as a _Silver Member_ and is represented by their CEO Anthony Manzella. 
 
 The OTF is very pleased to welcome Zella Technologies as a new Silver Member. Zella Technologies's membership is a significant milestone for the OTF as they are the 2nd member to join who was not part of the original OTF founder. We're growing!
 
