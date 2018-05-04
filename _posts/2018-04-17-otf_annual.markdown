@@ -12,7 +12,7 @@ Draft Presentation Schedule:
 | Time Slot (PDT) | Title | Presenter |
 | --------------- | ----- | --------- |
 | 9:00 | Welcome | Cameron Beattie (Voyager) |
-| 9:10 | The OTF: A year in review | Graham Nelson-Zutter (Telephonic) |
+| 9:10 | The OTF: A year in review | Graham Nelson-Zutter (CloudPBX) |
 | 9:30 | Made in Britain. Open for everybody | Mikhail Rodionov (Telux) |
 | 10:00 | BGP/BFD for highly available voice peering | Remco van Vugt (Raffel) |
 | 10:45 | Experiences with CouchDB for Kazoo | Daniel Finke (Voxter) |
