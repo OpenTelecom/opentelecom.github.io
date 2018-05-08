@@ -11,4 +11,4 @@ The OTF is very pleased to welcome Qunifi Limited  as a new Silver Member. Qunif
 
 The Open Telecom Foundation registered as a non-profit in June 2017, new members are welcome to [join as members](/new_member_join.html) after first reading and agreeing to our foundation [By-Laws](/bylaws.html).
 
-As a _Silver Member_, Telux Limited is happy to contribute its annual OTF membership fee, paid in monthly installments. 
+As a _Silver Member_, Qunifi Limited is happy to contribute its annual OTF membership fee, paid in monthly installments. 
