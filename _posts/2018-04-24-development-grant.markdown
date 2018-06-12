@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "The OTF is happy to annount the new OTF Development Grant!"
+title:  "The OTF is happy to announce the new OTF Development Grant!"
 date:   2018-04-24 12:00:00
 categories: foundation grant non-profit
 ---
