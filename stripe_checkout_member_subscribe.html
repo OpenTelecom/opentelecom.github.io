@@ -3,6 +3,52 @@ layout: default
 ---
 
 <div class="home">
+  
+  <!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3"></script>
+
+<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+<button
+  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+  id="checkout-button-Silver1to4Emp"
+  role="link"
+>
+ Signup: OTF Silver Member (1-4 Employees)
+  </button>
+
+<div id="error-message"></div>
+
+<script>
+  var stripe = Stripe('pk_live_p5tdou9B8fTrkpO8UjcwlFOG');
+
+  var checkoutButton = document.getElementById('checkout-button-Silver1to4Emp');
+  checkoutButton.addEventListener('click', function () {
+    // When the customer clicks on the button, redirect
+    // them to Checkout.
+    stripe.redirectToCheckout({
+      items: [{plan: 'Silver1to4Emp', quantity: 1}],
+
+      // Do not rely on the redirect to the successUrl for fulfilling
+      // purchases, customers may not always reach the success_url after
+      // a successful payment.
+      // Instead use one of the strategies described in
+      // https://stripe.com/docs/payments/checkout/fulfillment
+      successUrl: 'https://opentelecom.foundation/stripe_checkout_success.html',
+      cancelUrl: 'https://opentelecom.foundation/stripe_checkout_cancelled.html',
+    })
+    .then(function (result) {
+      if (result.error) {
+        // If `redirectToCheckout` fails due to a browser or network
+        // error, display the localized error message to your customer.
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+</script>
+  
+  
+<br><br><br>
 
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
@@ -46,30 +92,31 @@ layout: default
 </script>
 
 
-
-
-<!-- Load Stripe.js on your website. -->
+<br><br><br>  
+  
+  <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
 
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
 <button
   style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-Silver1to4Emp"
+  id="checkout-button-plan_FYAYSXnBVpoQnc"
   role="link"
 >
- Signup: OTF Silver Member (1-4 Employees)</button>
+   Signup: OTF Silver Member (10-99 Employees)
+</button>
 
 <div id="error-message"></div>
 
 <script>
   var stripe = Stripe('pk_live_p5tdou9B8fTrkpO8UjcwlFOG');
 
-  var checkoutButton = document.getElementById('checkout-button-Silver1to4Emp');
+  var checkoutButton = document.getElementById('checkout-button-plan_FYAYSXnBVpoQnc');
   checkoutButton.addEventListener('click', function () {
     // When the customer clicks on the button, redirect
     // them to Checkout.
     stripe.redirectToCheckout({
-      items: [{plan: 'Silver1to4Emp', quantity: 1}],
+      items: [{plan: 'plan_FYAYSXnBVpoQnc', quantity: 1}],
 
       // Do not rely on the redirect to the successUrl for fulfilling
       // purchases, customers may not always reach the success_url after
@@ -89,9 +136,6 @@ layout: default
     });
   });
 </script>
+  
 
 </div>
-
-
-
-
